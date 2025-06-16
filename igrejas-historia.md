@@ -276,7 +276,7 @@ graph TD
 
 # 📜 Diagrama Resumido Visual
 
-```Mermaid
+```mermaid
 graph TD
     A[Éfeso - Perda do amor] --> B[Esmirna - Perseguição]
     B --> C[Pérgamo - Compromisso com o mundo]
